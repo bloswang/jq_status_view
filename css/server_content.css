@@ -1,0 +1,26 @@
+.server_content{
+    margin-top: 65px;
+    width:100%;
+    background: red;
+}
+.server_content .fenlei{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.server_content span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.server_list{
+    width:90%;
+    height: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+    background: blanchedalmond;
+}
+.list{
+    width: 960px;
+    height: 220px;
+    border: 1px solid #666;
+}
+.list_img
